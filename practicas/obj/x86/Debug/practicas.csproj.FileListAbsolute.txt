@@ -1,0 +1,5 @@
+/Users/AlanGarcia/Projects/practicas/practicas/bin/Debug/practicas.exe
+/Users/AlanGarcia/Projects/practicas/practicas/bin/Debug/practicas.pdb
+/Users/AlanGarcia/Projects/practicas/practicas/obj/x86/Debug/practicas.csproj.CoreCompileInputs.cache
+/Users/AlanGarcia/Projects/practicas/practicas/obj/x86/Debug/practicas.exe
+/Users/AlanGarcia/Projects/practicas/practicas/obj/x86/Debug/practicas.pdb
